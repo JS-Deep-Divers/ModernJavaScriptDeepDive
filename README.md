@@ -1,11 +1,13 @@
 # JS-Deep-Divers
 *모던 자바스크립트 딥 다이브 북 스터디*
 
+![image](https://user-images.githubusercontent.com/36308113/224690413-fac1e4e7-f068-49c4-812b-aeac609a96d0.png) 
+
 ## 🎯 목표
 
 - `모던 자바스크립트 딥 다이브` 빠르게 1회독
 
-### 📎 진행 방식
+## 📎 진행 방식
 
 1. [인프런 강좌](https://www.inflearn.com/course/%EB%AA%A8%EB%8D%98-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%94%A5%EB%8B%A4%EC%9D%B4%EB%B8%8C)에 나오는 섹션대로 하루에 하나씩 주마다 정해진 분량을 읽는다.
 2. 스터디 모임 당일 분담된 섹션에 대한 문제를 3~5개 사이로 출제 한다.
