@@ -39,8 +39,8 @@
 ### branch
 
 - 섹션마다 각자 branch로 작업을 한다
-    - `브랜치 명`  : {해당 날짜의 주제}_{github id}
-        - ex) `12.함수_jungmyungjin`
+    - `브랜치 명`  : {섹션의 번호}_{github id}
+        - ex) 8.제어문/9.타입변환과 단축평가  => `8_9_jungmyungjin`
 
 ### PR
 
