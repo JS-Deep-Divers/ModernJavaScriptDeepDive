@@ -56,9 +56,9 @@
 
 ### 파일 명 규칙
 
-**Convention**
-    - {해당 날짜의 주제}/{해당 날짜의 주제}_{github id}.{확장자}
-        - ex) `/12.함수/12.함수_jungmyungjin.md`   
+- **Convention**
+   - {해당 날짜의 주제}/{해당 날짜의 주제}_{github id}.{확장자}
+       - ex) `/12.함수/12.함수_jungmyungjin.md`   
 <br/>
 <br/>
 
