@@ -40,8 +40,8 @@
 ### branch
 
 - 섹션마다 각자 branch로 작업을 한다
-    - `브랜치 명`  : {해당 날짜의 주제}_{github id}
-        - ex) `12.함수_jungmyungjin`
+    - `브랜치 명`  : {주제의 장}_{github id}
+        - ex) 8장,9장인 경우 -> `8_9_jungmyungjin` 
 
 ### PR
 
