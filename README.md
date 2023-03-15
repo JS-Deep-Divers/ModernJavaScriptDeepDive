@@ -39,8 +39,8 @@
 ### branch
 
 - 섹션마다 각자 branch로 작업을 한다
-    - `브랜치 명`  : {섹션의 번호}_{github id}
-        - ex) 8.제어문/9.타입변환과 단축평가  => `8_9_jungmyungjin`
+    - `브랜치 명`  : {해당 날짜의 주제}_{github id}
+        - ex) `12.함수_jungmyungjin`
 
 ### PR
 
@@ -59,7 +59,15 @@
 
 - **정리한 내용을 올릴 때**
     - {해당 날짜의 주제}/{해당 날짜의 주제}_{github id}.{확장자}
-        - ex) `/12.함수/12.함수_jungmyungjin.md`
-        
-        
-## 스터디원
+        - ex) `/12.함수/12.함수_jungmyungjin.md`   
+<br/>
+<br/>
+
+## 🧸 Member
+
+|     |     |     |     | 
+|-----|-----|-----|-----|
+| <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/36308113?s=96&v=4"> | [jungmyungjin](https://github.com/jungmyungjin) | <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/48405400?v=4"> | [buyeolim](https://github.com/buyeolim) |
+| <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/88541598?v=4"> | [nkavay](https://github.com/nkavay) | <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/62044613?v=4"> | [seongm2n](https://github.com/seongm2n) |
+| <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/41470637?v=4"> | [LHI0915](https://github.com/LHI0915) | <img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/123616498?v=4"> | [ultraWiseWater](https://github.com/ultraWiseWater) |
+
