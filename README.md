@@ -59,10 +59,7 @@
 - **읽고 난 후 간단한 글 작성 파일**
    - {해당 날짜의 주제}/{해당 날짜의 주제}_{github id}.{확장자}
        - ex) `/12.함수/12.함수_jungmyungjin.md`   
-       
-- **Quiz**	
-   - {해당 날짜의 주제}/{Quiz}_{github id}.{확장자}
-       - ex) `/12.함수/Quiz_jungmyungjin.md`
+      
 
        
 <br/>
