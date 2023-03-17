@@ -62,7 +62,7 @@
        
 - **Quiz**	
    - {해당 날짜의 주제}/{Quiz}_{github id}.{확장자}
-       - ex) /12.함수/`Quiz_jungmyungjin.md`
+       - ex) `/12.함수/Quiz_jungmyungjin.md`
 
        
 <br/>
