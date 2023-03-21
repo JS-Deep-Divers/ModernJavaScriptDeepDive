@@ -43,22 +43,29 @@
     - `브랜치 명`  : {주제의 장}_{github id}
         - ex) 8장,9장인 경우 -> `8_9_jungmyungjin` 
 
-### PR
+### Pull Request
 
+**관리**
 - 각 날짜의 담당자가 Issue를 생성한다.
 - 각 날짜의 담당자가 Pull Request 요청을 확인하여 Tesk에 체크하고 Merge 한다.
 - Merge된 branch는 삭제한다.
-- **Convention**
-    - 제목 : {해당 날짜의 주제}_{github id}
-        - ex) `12.함수_jungmyungjin`
-    - 내용 : #{이슈 번호} {text}
-        - `#1 오늘의 정리글!`
+
+**생성**
+
+- Pull Request 요청 시 `assignee` 를 해당 섹션의 담당자로 설정한다.
+
+**작성법**
+
+  - 제목 : {해당 날짜의 주제}_{github id}
+    - ex) `12.함수_jungmyungjin`
+  - 내용 : #{이슈 번호} {text}
+    - `#1 오늘의 정리글!`
 
 ### 파일 명 규칙
 
 - **읽고 난 후 간단한 글 작성 파일**
    - {해당 날짜의 주제}/{해당 날짜의 주제}_{github id}.{확장자}
-       - ex) `/12.함수/12.함수_jungmyungjin.md`   
+       - ex) `/12함수/jungmyungjin.md`   
       
 
        
