@@ -19,28 +19,8 @@ const obj = {
 obj.arrowFn();
 ```
 
-## callback 함수 this
 
-전역 객체
-
-```javascript
-const value = 1;
-
-const obj = {
-  value: 100,
-  fn: function() {
-    setTimeout(function() {
-      console.log("callback's this: ",  this);
-      console.log("callback's this.value: ",  this.value);
-      //debugger;
-    }, 100);
-  }
-};
-
-obj.fn();
-```
-
-## this binding
+- this binding
 
 bind, apply, call
 
@@ -66,8 +46,7 @@ displayThis.bind(bindingObject)();
 
 - 생성자 함수 this
 
-- new 키워드 없을 경우 일반 함수처럼 동작하고 리턴이 없을 경우 undefined반환
-- new 키워드 있을 경우 this를 해당 object로 binding해주고 리턴을 명시하지 않아도 암묵적으로 (해당 object) this를 반환
+1. new 키워드 없을 경우 일반 함수처럼 동작하고 리턴이 없을 경우 undefined반환2. new 키워드 있을 경우 this를 해당 object로 binding해주고 리턴을 명시하지 않아도 암묵적으로 (해당 object) this를 반환
 
 ```javascript
 //debugger
