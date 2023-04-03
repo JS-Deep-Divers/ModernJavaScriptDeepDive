@@ -1,0 +1,17 @@
+### 01. 아래 코드의 결과는? ###
+```javascript
+function bar() {
+return 'caller : ' + bar.caller;
+}
+
+console.log(bar());
+```
+
+02. arguments 객체는 length 프로퍼티가 있는 유사 배열 객체이므로 
+for 문으로 순회할 수 00. 
+00에 들어갈 말은?
+
+03. 아래 코드의 결과는?
+```javascript
+({}).hasOwnProperty('prototype');
+```
