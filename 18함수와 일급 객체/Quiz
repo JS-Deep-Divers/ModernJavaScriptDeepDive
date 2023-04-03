@@ -1,0 +1,32 @@
+01. 아래 코드의 결과는?
+```jsx
+function bar() {
+return 'caller : ' + bar.caller;
+}
+
+console.log(bar());
+```
+
+02. arguments 객체는 length 프로퍼티가 있는 유사 배열 객체이므로 
+for 문으로 순회할 수 00. 
+00에 들어갈 말은?
+
+03. 아래 코드의 결과는?
+```jsx
+({}).hasOwnProperty('prototype');
+```
+
+
+Answer
+01.
+```jsx
+caller : null
+```
+함수 호출 bar()의 경우 bar 함수를 호출한 함수는 없다. 따라서 caller 프로퍼티는 null을 가리킨다.
+
+02. 있다.
+arguments 객체는 배열 형태로 인자 정보를 담고 있지만 실제 배열이 아닌 유사 배열 객체array-like object다. 
+유사 배열 객체란 length 프로퍼티를 가진 객체로 for문으로 순회할 수 있는 객체를 말한다.
+
+03. false
+일반 객체는 prototype 프로퍼티를 소유하지 않는다.
